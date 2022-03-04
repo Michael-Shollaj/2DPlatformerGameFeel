@@ -1,0 +1,333 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.10f1 (b15f561b2cef) revision 11624278'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1526; Version 2009; 64bit' Language: 'en' Physical Memory: 8067 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/xhoni/Downloads/Augmented-Reality-Projects-Unity-master/2DPlatformerTutorial
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+60510
+Successfully changed project path to: C:/Users/xhoni/Downloads/Augmented-Reality-Projects-Unity-master/2DPlatformerTutorial
+C:/Users/xhoni/Downloads/Augmented-Reality-Projects-Unity-master/2DPlatformerTutorial
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 126.49 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.10f1 (b15f561b2cef)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/xhoni/Downloads/Augmented-Reality-Projects-Unity-master/2DPlatformerTutorial/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     4021 MB
+    Driver:   23.21.13.9125
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.10f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003771 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 151.06 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.977 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2977ms)
+		BeginReloadAssembly (67ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (649ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (212ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (336ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (151ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (139ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008018 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\xhoni\Downloads\Augmented-Reality-Projects-Unity-master\2DPlatformerTutorial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\xhoni\Downloads\Augmented-Reality-Projects-Unity-master\2DPlatformerTutorial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 137.90 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.050 seconds
+Domain Reload Profiling:
+	ReloadAssembly (7050ms)
+		BeginReloadAssembly (202ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (28ms)
+		EndReloadAssembly (6765ms)
+			LoadAssemblies (3854ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (1748ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (81ms)
+			SetupLoadedEditorAssemblies (897ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (138ms)
+				BeforeProcessingInitializeOnLoad (120ms)
+				ProcessInitializeOnLoadAttributes (602ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.82 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3663 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 137.3 MB.
+System memory in use after: 137.4 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4107.
+Total: 3.734200 ms (FindLiveObjects: 0.305800 ms CreateObjectMapping: 0.217800 ms MarkObjects: 2.993500 ms  DeleteObjects: 0.215700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Robot/Eye.png
+  artifactKey: Guid(09b30069a9e0dbb43bf0985302526bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Eye.png using Guid(09b30069a9e0dbb43bf0985302526bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dda39d6e54d4d6d0b79b3c5ae838d628') in 0.134643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Robot
+  artifactKey: Guid(8dc66474f62a9cf40a8367ce603316a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot using Guid(8dc66474f62a9cf40a8367ce603316a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14418ece315614f17384ad98ce2b8f68') in 0.007932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Robot/Body.png
+  artifactKey: Guid(d369ffc33352a044fa9046afe08223b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Body.png using Guid(d369ffc33352a044fa9046afe08223b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54c774dab6d01448c09b8f3fa7d105d8') in 0.031390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000420 seconds.
+  path: Assets/Robot/Arm.png
+  artifactKey: Guid(396894ca510d9e947837e86d9ce4dc5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Arm.png using Guid(396894ca510d9e947837e86d9ce4dc5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dceeed6e41cfc0cff252f7b54cb31cd') in 0.023984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Robot/Head.png
+  artifactKey: Guid(42b809c6356ef1746bd93bb5b48dfa2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Head.png using Guid(42b809c6356ef1746bd93bb5b48dfa2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b401f7c63c38bcb844d434f46e4998c1') in 0.024797 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Robot/Leg.png
+  artifactKey: Guid(0aadb55e96d53f9478b3e02e80119d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Leg.png using Guid(0aadb55e96d53f9478b3e02e80119d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a53c95e0852f778c0ce820e16780fec6') in 0.024251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 110.726832 seconds.
+  path: Assets/Robot/Leg 1.png
+  artifactKey: Guid(36e1f47c7f7397541a1d02c00ffc30d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Leg 1.png using Guid(36e1f47c7f7397541a1d02c00ffc30d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e6fc1e979277ef2a5053a009f4fe44f') in 0.037445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.772685 seconds.
+  path: Assets/Robot/RightLef.png
+  artifactKey: Guid(36e1f47c7f7397541a1d02c00ffc30d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/RightLef.png using Guid(36e1f47c7f7397541a1d02c00ffc30d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e97282e4b6b3f2cd59966540bda9fcd') in 0.019855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.092528 seconds.
+  path: Assets/Robot/RightLeg.png
+  artifactKey: Guid(36e1f47c7f7397541a1d02c00ffc30d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/RightLeg.png using Guid(36e1f47c7f7397541a1d02c00ffc30d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9daabe8ddf864b775490237d4c841581') in 0.037616 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.664178 seconds.
+  path: Assets/Robot/LeftLeg.png
+  artifactKey: Guid(0aadb55e96d53f9478b3e02e80119d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/LeftLeg.png using Guid(0aadb55e96d53f9478b3e02e80119d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d3d19046f1af37c475b64229879eaf') in 0.018736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 743.751795 seconds.
+  path: Assets/Robot/Robot
+  artifactKey: Guid(0853c28005d7b7c4fae33bb4ce225fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot using Guid(0853c28005d7b7c4fae33bb4ce225fc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa63dee888bbff8bb6dbe4a1c8268c2a') in 0.009610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.520232 seconds.
+  path: Assets/Robot/Robot/Sprites
+  artifactKey: Guid(6462aeab92e0e954caa08e7638c87dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/Sprites using Guid(6462aeab92e0e954caa08e7638c87dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba8cc3cac2678ee703dd24d91c78b449') in 0.015574 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1105.906534 seconds.
+  path: Assets/Robot/Robot/Sprites/Gun.png
+  artifactKey: Guid(9802892bdecfa2c409b5735de23806be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/Sprites/Gun.png using Guid(9802892bdecfa2c409b5735de23806be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1aa75a5fcc0db2295211dca652b6573') in 0.125511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 105.640058 seconds.
+  path: Assets/Robot/Robot/Animations
+  artifactKey: Guid(50e8cabe5edea3548abf2033cb24e893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/Animations using Guid(50e8cabe5edea3548abf2033cb24e893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1454720094d85737298f9c7a6a1fc816') in 0.135199 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015789 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\xhoni\Downloads\Augmented-Reality-Projects-Unity-master\2DPlatformerTutorial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\xhoni\Downloads\Augmented-Reality-Projects-Unity-master\2DPlatformerTutorial\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.445 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2446ms)
+		BeginReloadAssembly (581ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (140ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (233ms)
+		EndReloadAssembly (1747ms)
+			LoadAssemblies (233ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (649ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (524ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (119ms)
+				ProcessInitializeOnLoadAttributes (367ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (28ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.18 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3665 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 146.1 MB.
+System memory in use after: 146.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 4274.
+Total: 3.964600 ms (FindLiveObjects: 0.365200 ms CreateObjectMapping: 0.274400 ms MarkObjects: 3.191400 ms  DeleteObjects: 0.132200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1639.808685 seconds.
+  path: Assets/Robot/Robot/IndustrialTile_04.png
+  artifactKey: Guid(1e3169e6abc0fff4da089d49b4a80903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/IndustrialTile_04.png using Guid(1e3169e6abc0fff4da089d49b4a80903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ecc2e4fb42932589dd80524ec05c84d') in 0.109170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Robot/Robot/IndustrialTile_06.png
+  artifactKey: Guid(d009d3d783fbf5b4fa2946a412e6c412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/IndustrialTile_06.png using Guid(d009d3d783fbf5b4fa2946a412e6c412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30235e6542251bbf7f23d9d8d477dbc2') in 0.017846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Robot/Robot/IndustrialTile_05.png
+  artifactKey: Guid(c183bc6b9e36c8e43b6543e4ff7d0bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/IndustrialTile_05.png using Guid(c183bc6b9e36c8e43b6543e4ff7d0bdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f62ca3a09ffe8685da284742fa3ec2a1') in 0.024613 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.035507 seconds.
+  path: Assets/Robot/Robot/IndustrialTile_13.png
+  artifactKey: Guid(6f871544d7980194ba2eeeb63f8b6e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/IndustrialTile_13.png using Guid(6f871544d7980194ba2eeeb63f8b6e0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ed20476d437cb497b684c9d4675254') in 0.026124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Robot/Robot/IndustrialTile_15.png
+  artifactKey: Guid(f49c25a08a2c6b540888ab89568b2bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/IndustrialTile_15.png using Guid(f49c25a08a2c6b540888ab89568b2bdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92e1ffdeef05ec8c67a5199d95d1dfeb') in 0.023668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Robot/Robot/IndustrialTile_16.png
+  artifactKey: Guid(13c6d0ff9e8b1594391fac00375070f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/IndustrialTile_16.png using Guid(13c6d0ff9e8b1594391fac00375070f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadc02ea977b56be85d8a7c14ff1483d') in 0.032563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Robot/Robot/IndustrialTile_17.png
+  artifactKey: Guid(83ce3938c98e9a143bff30b06bb09d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/IndustrialTile_17.png using Guid(83ce3938c98e9a143bff30b06bb09d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98c9731cd03434149fb745b30791d598') in 0.159183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Robot/Robot/IndustrialTile_14.png
+  artifactKey: Guid(4c0a9201defc5ce419026dc27e953623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/IndustrialTile_14.png using Guid(4c0a9201defc5ce419026dc27e953623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e408dd92b21dd51c6e9fde5b2ab444b') in 0.028638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 976.211674 seconds.
+  path: Assets/Robot/Robot/Ground
+  artifactKey: Guid(b587dd136060a3e44923459e7f369525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Robot/Robot/Ground using Guid(b587dd136060a3e44923459e7f369525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76da66a692ddfb2969a3be0f8b39b092') in 0.012118 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
